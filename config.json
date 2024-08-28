@@ -1,9 +1,11 @@
 {
+
     "username": "",
     "password": "",
     "server": "",
-    "port": "",
-    "version": "",
-    "auth": ""
+    "port": 25565,
+    "version": "1.20.4",
+    "auth": "microsoft",
+    "prefix": "$"
 
 }
