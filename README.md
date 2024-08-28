@@ -24,5 +24,13 @@ Then go to the [Config File](https://github.com/quervyloll/urban-adventure/blob/
 - Prefix
   - The prefix to the commands for your bot. The default is `$`.
 
+## Running
+After setting up the [Config File](https://github.com/quervyloll/urban-adventure/blob/main/config.json) make sure the [Index File](https://github.com/quervyloll/urban-adventure/blob/main/index.js) is in a folder with your [Commands Folder](https://github.com/quervyloll/urban-adventure/tree/main/commands) and your [Config File](https://github.com/quervyloll/urban-adventure/blob/main/config.json).
+
+Run the [Index File](https://github.com/quervyloll/urban-adventure/blob/main/index.js) and enjoy!
+
+
+
+
 ## Support
 If you have any questions feel free to dm me on discord. ```quervylol```
