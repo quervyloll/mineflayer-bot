@@ -12,7 +12,7 @@ Then go to the [Config File](https://github.com/quervyloll/urban-adventure/blob/
 - Username
   - The email of your microsoft account or the username of an account for an offline/cracked server or locally hosted worlds.
 - Password
-  - The password of your microsoft account or the password of an account for aan offline/cracked server or locally hosted worlds.
+  - The password of your microsoft account or the password of an account for an offline/cracked server or locally hosted worlds.
 - Server
   - The ip of the server you want your bot to join. For local hosting, use `localhost`.
 - Port
@@ -33,4 +33,4 @@ Run the [Index File](https://github.com/quervyloll/urban-adventure/blob/main/ind
 
 
 ## Support
-If you have any questions feel free to dm me on discord. ```quervylol```
+If you have any questions feel free to dm me on discord (```quervylol```) or open an issue, thanks! Enjoy.
