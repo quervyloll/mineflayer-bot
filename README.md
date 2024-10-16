@@ -33,4 +33,4 @@ Run the [Index File](https://github.com/quervyloll/urban-adventure/blob/main/ind
 
 
 ## Support
-If you have any questions feel free to dm me on discord (```quervylol```) or open an issue, thanks! Enjoy.
+If you have any questions feel free to dm me on [Discord](https://discord.com/users/659196853291712532)
