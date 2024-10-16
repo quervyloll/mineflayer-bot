@@ -17,7 +17,7 @@ function createBot() { // Function to create the Minecraft bot, that way so if y
 bot.on('error', (err) => console.log(err))
 bot.on('kicked', console.log)
 bot.on('end', () => {
-    setTimeout(createBot, 5000) // Reconnect to the server, default is set to 5 seconds (5,000ms).
+    setTimeout(createBot, 5000) // Reconnect to the server, default is set to 5 seconds (5000ms).
 })
 
 bot.on('login', () => {
